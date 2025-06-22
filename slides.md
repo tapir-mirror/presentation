@@ -1,88 +1,94 @@
-<!-- .slide: data-background-gradient="linear-gradient(to bottom right, #1a2a6c, #b21f1f, #fdbb2d)" -->
+<!-- .slide: data-background="assets/mira-bg.png" data-background-size="cover" -->
 
 # Mira
 
-### Digital Mirror for Personal Growth
+### Digital Mirror for Professional Growth
 
-Note: Welcome to Mira's journey of innovation and growth
-
-
-### 🎯 Mission Accomplished
-- Built a revolutionary personal development platform
-- Created a "digital mirror" for authentic self-reflection
-- Developed innovative AI-powered personality analysis
-- Established strong privacy and security foundations
-
-Note: We've successfully created a platform that helps people understand themselves better
+Note: Welcome to Mira's technical showcase
 
 
-### 💡 Technical Breakthroughs
-- Implemented cost-optimized AI analysis (70-80% savings!)
-- Developed smart caching and profile hashing
-- Created a three-model AI architecture
-- Successfully fine-tuned Mistral-7B for therapeutic conversations
+### 🏆 Hackathon Achievement
+- Built full-stack prototype in 24 hours
+- Integrated Supabase, RapidAPI, and Claude AI
+- Developed novel three-model AI architecture
 
-Note: Our technical innovations have made AI-powered personal development accessible and efficient
+![Runthrough Demo](assets/runthrough-interface-.gif)
 
-
-### 🛡️ Privacy & Security First
-- Secure, encrypted feedback system
-- Ethical data collection practices
-- Row Level Security implementation
-- Smart vulnerability assessment system
-
-Note: We've built a platform that users can trust with their personal growth journey
+Note: We delivered a complete MVP within the tight timeframe
 
 
-### 🧠 Advanced Analysis Engine
+### 🧠 Core Innovation
+- First fine-tuned Mistral for therapeutic use
+- Evidence-based personality analysis
+- Seven Deadly Sins vulnerability assessment
+
+Note: Our technical approach is fundamentally unique
+
+
+### ⚡ Technical Highlights
+- 70-80% cost reduction via smart caching
+- Distributed Redis queue processing
+- 1.4M psychology text chunks for training
+
+Note: Practical yet innovative technical solutions
+
+
+### 🔍 Analysis Engine
 - Professional personality insights
-- Evidence-based trait analysis
-- Multi-platform perception analysis
-- Real-time vulnerability assessment
+- Communication style assessment
+- Vibe categorization
 
-Note: Our analysis engine provides deep, actionable insights
+![Dashboard Interface](assets/dashboard.png)
 
-
-### 🌟 Unique Features
-- Seven Deadly Sins framework integration
-- Interactive personality radar charts
-- Smart profile change detection
-- Personalized growth recommendations
-
-Note: We've created features that set us apart from traditional personal development tools
+Note: Goes beyond generic personality tests
 
 
-### 📊 Data-Driven Growth
-- Comprehensive LinkedIn profile analysis
-- Evidence-backed personality traits
-- Specific quote-based insights
-- Actionable protection strategies
+### 🛡️ Security & Privacy
+- Row Level Security implementation
+- Encrypted feedback system
+- Ethical data practices
 
-Note: Every insight is backed by concrete data and evidence
-
-
-### 🤖 AI Innovation
-- MiraStral: Specialized therapeutic AI
-- Three-tier AI architecture
-- Empathetic conversation handling
-- Tool-augmented responses
-
-Note: Our AI innovations make personal growth more accessible and effective
+Note: We take privacy seriously
 
 
-### 🚀 Platform Success
-- Full-stack React TypeScript implementation
-- Supabase integration for scalability
-- Efficient API usage and caching
-- Beautiful, modern UI/UX
+### 📊 Data Processing
+- Processed 1,478 psychology books
+- Stored 1.4M text chunks in Redis
+- Distributed across multiple LLMs
 
-Note: We've built a robust, scalable platform ready for growth
+Note: Robust and scalable data pipeline
 
 
-### 🎯 Ready for Impact
-- Comprehensive documentation
-- Open-source contribution ready
-- Cost-effective implementation
-- Positioned for future expansion
+### Profile Analysis Examples
+| Professional | Vulnerability |
+|--------------|---------------|
+| ![Alex Pro](assets/Alex-pro.png) | ![Alex Vuln](assets/Alex-vulnerability.png) |
+| ![Diana Pro](assets/Diana-pro.png) | ![Diana Vuln](assets/Diana-vulnerability.png) |
+| ![Kam Pro](assets/Kam-pro.png) | ![Kam Vuln](assets/Kam-vulnerability.png) |
 
-Note: We're ready to make a real difference in people's lives
+Note: Real examples of our analysis output
+
+
+### 🚀 Full Implementation
+- Astro + React frontend
+- Supabase backend
+- RapidAPI integration
+- Claude 3.5 analysis
+
+Note: Complete, production-ready stack
+
+
+### 🌟 Unique Value
+- Combines self-perception, social media, and feedback
+- Specialized therapeutic fine-tuning
+- Personal model that evolves
+
+Note: Truly unique in personal development
+
+
+### 🎯 Next Steps
+- Expand social platform integration
+- Enhance feedback system
+- Develop mobile AR features
+
+Note: We're just getting started
