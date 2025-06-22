@@ -30,15 +30,32 @@ Then open `http://localhost:8000` in your browser.
 ![Dashboard Interface](assets/dashboard.png)
 ![Runthrough Demo](assets/runthrough-interface-.gif)
 
-### Profile Analysis Examples
+### Profile Analysis Examples (Static Images)
 | Professional Analysis | Vulnerability Assessment |
 |-----------------------|--------------------------|
 | ![Alex Professional](assets/Alex-pro.png) | ![Alex Vulnerability](assets/Alex-vulnerability.png) |
 | ![Diana Professional](assets/Diana-pro.png) | ![Diana Vulnerability](assets/Diana-vulnerability.png) |
 | ![Kam Professional](assets/Kam-pro.png) | ![Kam Vulnerability](assets/Kam-vulnerability.png) |
 
-## Notes
+### Profile Analysis Demos (Animated GIFs)
 
-- Slides are separated by three newlines (`\n\n\n`)
-- Vertical slides are separated by two newlines (`\n\n`)
-- Speaker notes start with `Note:` on a new line 
+#### Kam's Analysis
+| Professional Analysis | Vulnerability Assessment |
+|-----------------------|--------------------------|
+| ![Kam Professional GIF](assets/kalp.gif) | ![Kam Vulnerability GIF](assets/kalv.gif) |
+
+#### Alex's Analysis  
+| Professional Analysis | Vulnerability Assessment |
+|-----------------------|--------------------------|
+| ![Alex Professional GIF](assets/alexp.gif) | ![Alex Vulnerability GIF](assets/alexv.gif) |
+
+#### Diana's Analysis
+| Professional Analysis | Vulnerability Assessment |
+|-----------------------|--------------------------|
+| ![Diana Professional GIF](assets/dianap.gif) | ![Diana Vulnerability GIF](assets/dianav.gif) |
+
+
+## Mirastral
+
+![Profile Generation](assets/profile_gen.png)
+![MiraStral Demo](assets/mirastral.gif)

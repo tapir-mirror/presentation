@@ -14,17 +14,23 @@ Note: Welcome to Mira's technical showcase
 - Integrated Supabase, RapidAPI and Claude AI
 - Developed novel three-model AI architecture
 
+Note: We delivered a complete MVP within the tight timeframe
+
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
 ### Demo
 ![Runthrough Demo](assets/runthrough-interface-.gif)
 
+Note: Live demonstration of the application
+
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
 ### Dashboard
 ![Dashboard Demo](assets/dashboard.png)
+
+Note: User interface showing analysis results
 
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
@@ -50,14 +56,50 @@ Note: Goes beyond generic personality tests
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
-### Profile Analysis Examples
-| <small>Professional</small> | <small>Vulnerability</small> |
-|--------------|---------------|
-| ![Alex Pro](assets/Alex-pro.png) | ![Alex Vuln](assets/Alex-vulnerability.png) |
-| ![Diana Pro](assets/Diana-pro.png) | ![Diana Vuln](assets/Diana-vulnerability.png) |
-| ![Kam Pro](assets/Kam-pro.png) | ![Kam Vuln](assets/Kam-vulnerability.png) |
+### Kam - Professional Analysis
+![Kam Professional](assets/kalp.gif)
 
-Note: Real examples of our analysis output
+Note: Kam's professional personality analysis
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Kam - Vulnerability Analysis
+![Kam Vulnerability](assets/kalv.gif)
+
+Note: Kam's vulnerability assessment
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Alex - Professional Analysis
+![Alex Professional](assets/alexp.gif)
+
+Note: Alex's professional personality analysis
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Alex - Vulnerability Analysis
+![Alex Vulnerability](assets/alexv.gif)
+
+Note: Alex's vulnerability assessment
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Diana - Professional Analysis
+![Diana Professional](assets/dianap.gif)
+
+Note: Diana's professional personality analysis
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Diana - Vulnerability Analysis
+![Diana Vulnerability](assets/dianav.gif)
+
+Note: Diana's vulnerability assessment
 
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
@@ -85,6 +127,8 @@ Note: Comprehensive knowledge base
 ##### Profile Generation
 ![Profile Generation](assets/profile_gen.png)
 
+Note: Automated profile generation system
+
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
@@ -111,6 +155,8 @@ Note: Each model brings unique strengths
 
 ### Demo
 ![MiraStral Demo](assets/mirastral.gif)
+
+Note: MiraStral fine-tuned model demonstration
 
 
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
