@@ -1,8 +1,8 @@
 <!-- .slide: data-background="assets/mira-bg.png" data-background-size="cover" -->
 
-# Mira
+<h1 style="color: #6a0dad; -webkit-text-stroke: 2px white; text-stroke: 2px white;">Mira</h1>
 
-### Digital Mirror for Professional Growth
+<h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; text-stroke: 1px white;">What's your</h3><h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; font-style: italic;  font-size: 100px;">𝔳𝔦𝔟𝔢</h3><h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; text-stroke: 1px white;">?</h3>
 
 Note: Welcome to Mira's technical showcase
 
@@ -12,7 +12,11 @@ Note: Welcome to Mira's technical showcase
 - Integrated Supabase, RapidAPI, and Claude AI
 - Developed novel three-model AI architecture
 
-![Runthrough Demo](assets/runthrough-interface-.gif)
+   <div class="reveal">
+      <div class="slides">
+        <section data-markdown="slides.md" data-background-image="assets/runthrough-interface-.gif"></section>
+      </div>
+    </div>
 
 Note: We delivered a complete MVP within the tight timeframe
 
@@ -34,11 +38,14 @@ Note: Practical yet innovative technical solutions
 
 
 ### 🔍 Analysis Engine
+
+<span style="font-size:0.7em; background-color: rgba(255,255,255,0.8); padding: 10px; display: inline-block;">
 - Professional personality insights
 - Communication style assessment
 - Vibe categorization
+</span>
 
-![Dashboard Interface](assets/dashboard.png)
+<!-- Remove the inline image since it's now the background -->
 
 Note: Goes beyond generic personality tests
 
@@ -60,7 +67,7 @@ Note: Robust and scalable data pipeline
 
 
 ### Profile Analysis Examples
-| Professional | Vulnerability |
+| <small>Professional</small> | <small>Vulnerability</small> |
 |--------------|---------------|
 | ![Alex Pro](assets/Alex-pro.png) | ![Alex Vuln](assets/Alex-vulnerability.png) |
 | ![Diana Pro](assets/Diana-pro.png) | ![Diana Vuln](assets/Diana-vulnerability.png) |
