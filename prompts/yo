@@ -1,0 +1,31 @@
+Diana:
+
+Prompts:
+
+Can we create something in the spirit of Tiny Shakespeare based on all interviews or public material available on a person? Like talk like Churchill or Kim Kardashian or a hybrid between the two? 
+
+Can we build the Tiny Shakespeare with a ratio for various historical, fictional, and contemporary figures like a mosaic? For example 20% Queen Rania, 15% Boris Johnson,  10% Elon Musk 5% Shallon Lester 5%Evy Pompouras 5%Mbappe, 10%Napoleon, %Gordon Bennett %10 the Dowager of Downton Abbey, 10%Sherlock Holmes, and the rest Cicero?
+
+What if we want to fine tune it from a certain perspective like: Queen Rania’s eloquence, Boris’ ability to avoid questions with humour, Shallon’s humour, Evy’s straightforwardness, Cicero’s empowerment, etc? 
+
+If we were to construct an ideal self digital twin based on a proportion of historical, fictional, and contemporary figures we admire, what’s the optimal and healthy proportion from a psychological point of view between these references and our own best features? 
+
+Does the Wikipedia api also include wiki quote? Also for movie characters and book characters what resources do you recommend?
+
+Does this work if the user puts : Cicero: empowerment, Napoleon: ego, or Mandela, Gandhi: Wisdom? 
+
+Can you add a search key in the YouTube-transcript-api Python module? 
+
+What if I want some Shallon Lester videos and can’t search for them via the YouTube api (budget wise)? 
+
+If I want an app in which the user adds someone like Shallon and expects something without providing the video id? 
+
+Can you write me a code to access quotes from a book character or a historical figure via Project Gutenberg? 
+
+Do we have to download the books? Isn’t it more resource efficient to extract the quotes from somewhere?  
+
+So wikiquote would give me something like Rebecca Sharpe?
+
+So for creating a digital twin out of my ideal self, I need to build a multi head CNN with 60% weight of a corpus provided by my texts, 15% of historical references, 15% of contemporary, and 10% of fictional. How do you recommend I embed what quotes and transcript and other text data I obtain? LSTM? What values should I put in the nn.Layer? 
+
+If I want them more substantial, what parameter do I change? 
