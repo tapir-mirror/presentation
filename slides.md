@@ -2,53 +2,32 @@
 
 <h1 style="color: #6a0dad; -webkit-text-stroke: 2px white; text-stroke: 2px white;">Mira</h1>
 
-<h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; text-stroke: 1px white;">What's your</h3><h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; font-style: italic;  font-size: 100px;">𝔳𝔦𝔟𝔢</h3><h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; text-stroke: 1px white;">?</h3>
+<h3 style="color: #6a0dad; -webkit-text-stroke: 1px white; text-stroke: 1px white;">What's your <span style="font-style: italic; font-size: 100px;">𝔳𝔦𝔟𝔢</span>?</h3>
 
 Note: Welcome to Mira's technical showcase
 
 
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
 ### 🏆 Hackathon Achievement
 - Built full-stack prototype in 24 hours
-- Integrated Supabase, RapidAPI, and Claude AI
+- Integrated Supabase, RapidAPI and Claude AI
 - Developed novel three-model AI architecture
 
-   <div class="reveal">
-      <div class="slides">
-        <section data-markdown="slides.md" data-background-image="assets/runthrough-interface-.gif"></section>
-      </div>
-    </div>
 
-Note: We delivered a complete MVP within the tight timeframe
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Demo
+![Runthrough Demo](assets/runthrough-interface-.gif)
 
 
-### 🧠 Core Innovation
-- First fine-tuned Mistral for therapeutic use
-- Evidence-based personality analysis
-- Seven Deadly Sins vulnerability assessment
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
-Note: Our technical approach is fundamentally unique
+### Dashboard
+![Dashboard Demo](assets/dashboard.png)
 
 
-### ⚡ Technical Highlights
-- 70-80% cost reduction via smart caching
-- Distributed Redis queue processing
-- 1.4M psychology text chunks for training
-
-Note: Practical yet innovative technical solutions
-
-
-### 🔍 Analysis Engine
-
-<span style="font-size:0.7em; background-color: rgba(255,255,255,0.8); padding: 10px; display: inline-block;">
-- Professional personality insights
-- Communication style assessment
-- Vibe categorization
-</span>
-
-<!-- Remove the inline image since it's now the background -->
-
-Note: Goes beyond generic personality tests
-
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
 ### 🛡️ Security & Privacy
 - Row Level Security implementation
@@ -58,13 +37,18 @@ Note: Goes beyond generic personality tests
 Note: We take privacy seriously
 
 
-### 📊 Data Processing
-- Processed 1,478 psychology books
-- Stored 1.4M text chunks in Redis
-- Distributed across multiple LLMs
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
-Note: Robust and scalable data pipeline
+### 🔍 Analysis Engine
+- Professional personality insights
+- Communication style assessment
+- Vibe categorization
+- Resilience against social engineering
 
+Note: Goes beyond generic personality tests
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
 ### Profile Analysis Examples
 | <small>Professional</small> | <small>Vulnerability</small> |
@@ -76,26 +60,64 @@ Note: Robust and scalable data pipeline
 Note: Real examples of our analysis output
 
 
-### 🚀 Full Implementation
-- Astro + React frontend
-- Supabase backend
-- RapidAPI integration
-- Claude 3.5 analysis
-
-Note: Complete, production-ready stack
-
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
 
 ### 🌟 Unique Value
-- Combines self-perception, social media, and feedback
+- Combines self-perception, social media and feedback
 - Specialized therapeutic fine-tuning
 - Personal model that evolves
 
 Note: Truly unique in personal development
 
 
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### 📊 Data Processing
+- 1.4M psychology text chunks from 1500 books
+- 15k profile analyses for fine-tuning
+- Robust and scalable data pipeline with Redis
+
+Note: Comprehensive knowledge base
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+##### Profile Generation
+![Profile Generation](assets/profile_gen.png)
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### ⚡ Vibe AI Engineering
+- First fine-tuned Mistral for therapeutic use
+- 70-80% cost reduction via smart caching
+- Distributed Redis queue processing
+
+Note: Practical yet innovative technical solutions
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### 🤖 Multi-Model Architecture
+- **Qwen-32B** for multilingual analysis
+- **Gemma-27B** for professional insights
+- **Olmo-13B** for efficient processing
+- **Phi-14B** for structured reasoning
+
+Note: Each model brings unique strengths
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
+### Demo
+![MiraStral Demo](assets/mirastral.gif)
+
+
+<!-- .slide: data-background-gradient="linear-gradient(135deg, #6a0dad,rgb(186, 143, 203),rgb(134, 104, 148))" -->
+
 ### 🎯 Next Steps
 - Expand social platform integration
-- Enhance feedback system
-- Develop mobile AR features
+- Enhance model through reinforcement learning
+- Develop personal counselling features
 
 Note: We're just getting started
