@@ -58,4 +58,38 @@ Then open `http://localhost:8000` in your browser.
 ## Mirastral
 
 ![Profile Generation](assets/profile_gen.png)
+
+
+```mermaid
+graph TD
+    D[Dispatcher] --> |Profiles| Q1[Redis Queue 1]
+    D --> |Profiles| Q2[Redis Queue 2]
+    D --> |Profiles| Q3[Redis Queue 3]
+    Q1 --> W1[Worker 1]
+    Q2 --> W2[Worker 2]
+    Q3 --> W3[Worker 3]
+    W1 --> |JSON Output| O1[Output Dir 1]
+    W2 --> |JSON Output| O2[Output Dir 2]
+    W3 --> |JSON Output| O3[Output Dir 3]
+```
+
+### Fine Tune
+
 ![MiraStral Demo](assets/mirastral.gif)
+
+```mermaid
+graph TD
+    A[Input JSON Files] --> B[Data Preprocessing]
+    B --> C[File Tracking]
+    C --> D[Checkpoint Check]
+    D --> |No Checkpoint| E[Initialize Training]
+    D --> |Found Checkpoint| F[Resume Training]
+    E --> G[Training Loop]
+    F --> G
+    G --> |Every 100 Steps| H[Save Checkpoint]
+    G --> |51 Minutes| I[Graceful Stop]
+    G --> |Interrupt Signal| I
+    I --> J[Save Final State]
+    H --> G
+    J --> K[Output Model]
+```
